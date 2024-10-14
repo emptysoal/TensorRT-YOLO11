@@ -1,6 +1,6 @@
 # YOLO11 目标检测模型转 TensorRT
 
-![_field](output/_10014.jpeg)
+![_field](output/_dog.jpg)
 
 ## 导出ONNX模型
 
