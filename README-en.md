@@ -75,10 +75,8 @@ docker pull nvcr.io/nvidia/tensorrt:22.04-py3
 - [C++ api detect](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/C%2B%2B/detect)
 - [C++ api pose](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/C%2B%2B/pose)
 - [C++ api segment](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/C%2B%2B/segment)
+- [C++ api track](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/C%2B%2B/)
 - [Python api detect](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/python/detect)
 - [Python api pose](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/python/pose)
 - [Python api segment](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/python/segment)
-
-- [C++ api track](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/C%2B%2B/)
-
 - [Python api track](https://github.com/emptysoal/TensorRT-YOLO11/tree/main/python)
