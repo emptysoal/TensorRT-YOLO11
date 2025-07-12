@@ -1,4 +1,4 @@
-# TensorRT deploy YOLO11 detect, pose, segment，tracking
+# TensorRT deploy YOLO11 detect, pose, segment, tracking
 
 ## Introduction
 
