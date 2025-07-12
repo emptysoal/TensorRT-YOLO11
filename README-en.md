@@ -41,9 +41,9 @@
 - `TensorRT 8.0+`
 - `OpenCV 3.4.0+`
 
-**If the basic requirements are met, you can directly go to each directory and run each task **
+**If the basic requirements are met, you can directly go to each directory and run each task**
 
-**Environment construction can refer to the following: **
+**Environment construction can refer to the following:**
 
 2. If  `Linux x86_64`, `docker` is recommended 
 
